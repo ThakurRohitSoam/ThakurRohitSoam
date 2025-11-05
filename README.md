@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Rohit Soam
 - 👀 I’m a leaner of computer science
-- 
